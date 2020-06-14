@@ -8,7 +8,7 @@ This python code simulates the use of the financial calculator. Currently as cod
 
 This program is useful for beginner programmers learning to write and grasp python. The program consist of a plethora of different statements used in basic python, such as assigning variables, basic control structures and learning to think like a programmer. If you are interested in finances you will also gain basic knowledge of simple and compound interest.
 
-## Basic financial forumalas used
+## Basic financial formulas used
 
 The basic formula for compound and simple interest is as follows:
 
