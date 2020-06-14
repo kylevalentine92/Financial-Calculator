@@ -10,7 +10,7 @@ This program is useful for beginner programmers learning to write and grasp pyth
 
 ## Basic financial formulas used
 
-The basic formula for compound and simple interest is as follows:
+### The basic formula for compound and simple interest is as follows:
 
 The total amount when simple interest is applied is calculated with the formula below:
 **A = P ( 1 + r * t)**
